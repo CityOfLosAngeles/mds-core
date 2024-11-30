@@ -30,6 +30,6 @@
     "@mds-core/mds-service-helpers": "0.1.0",
     "@mds-core/mds-types": "0.1.23",
     "@mds-core/mds-utils": "0.1.26",
-    "typeorm": "0.2.24"
+    "typeorm": "0.2.25"
   }
 }
