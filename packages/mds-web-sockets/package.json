@@ -29,7 +29,7 @@
     "node-rsa": "1.0.8",
     "request-promise": "4.2.5",
     "ts-nats": "1.2.14-2",
-    "ws": "7.3.0",
+    "ws": "7.4.6",
     "ws-heartbeat": "1.1.0"
   },
   "scripts": {
